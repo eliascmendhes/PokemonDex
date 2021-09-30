@@ -1,6 +1,7 @@
 # PokemonDex
 > Projeto PokemonDex
-> Aula lecionada pelo professor Roger Melo.
+> <hr>
+> <p>Aula lecionada pelo professor Roger Melo.</p>
 
 
 
