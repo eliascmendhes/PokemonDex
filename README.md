@@ -22,4 +22,6 @@ _Para mais exemplos, consulte a [Wiki][https://https://pokeapi.co/]._
 
 
 # Link da aplicação
-<a href="https://pokemondex-zeta.vercel.app/"></a>
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
+<br>
+><a href="https://pokemondex-zeta.vercel.app/">PokemonDex</a>
